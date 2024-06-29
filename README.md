@@ -53,7 +53,7 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 | Provider | Course | Completion Date | Repository |
 | :---: | :---: | :---: | :---: |
-| MIT OCW | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | - | - |
+| MIT OCW | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | 2024-06-10 | [OSSU Intro CS](https://github.com/luz-ojeda/ossu-intro-cs) |
 
 ## Core CS
 
