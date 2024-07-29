@@ -61,8 +61,8 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 | Provider | Course | Completion Date | Repository |
 | :---: | :---: | :---: | :---: |
-| UBCx | [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) | ✅ 2024-07-29 | [Core CS SPD](https://github.com/luz-ojeda/ossu-core-cs/tree/main/how-to-code-simple-data)|
-| University of Washington | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 🚧 | [Core CS SPD](https://github.com/luz-ojeda/ossu-core-cs/tree/main/how-to-code-complex-data) |
+| UBCx | [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) | 🚧 | [Core CS SPD](https://github.com/luz-ojeda/ossu-core-cs/tree/main/how-to-code-simple-data)|
+| University of Washington | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | - | - |
 | University of Washington | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - |
 | University of Washington | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | - |
 | University of Alberta | [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | - | - |
