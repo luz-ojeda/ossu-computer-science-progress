@@ -61,9 +61,9 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 | Provider | Course | Completion Date | Repository |
 | :---: | :---: | :---: | :---: |
-| UBCx | [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) | ✅ 2024-06-10 | [Core CS SPD](https://github.com/luz-ojeda/ossu-core-cs/tree/main/README.md)|
-| University of Washington | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 🚧 | - |
-| University of Washington | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - |
+| UBCx | [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) | ✅ 2024-09-07 | [Core CS SPD](https://github.com/luz-ojeda/ossu-core-cs/tree/main/README.md)|
+| University of Washington | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | ✅ 2024-10-15 | [Core CS PLA](https://github.com/luz-ojeda/ossu-core-programming/tree/main/programming-languages-part-a) |
+| University of Washington | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 🚧 | - |
 | University of Washington | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | - |
 | University of Alberta | [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | - | - |
 | University of Alberta | [Design Patterns](https://www.coursera.org/learn/design-patterns) | - | - |
